@@ -1,12 +1,19 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aplicação com informações de Hereo aApp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "nodejs",
+    "express",
+    "ong's"
+  ],
+  "author": "Gislaine Jéssica",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

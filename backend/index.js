@@ -1,9 +1,3 @@
-import React from 'react'
+const app = require('express');
 
-export default function index() {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+app.application({})
